@@ -65,8 +65,8 @@ Real-Time Interaction:
 Launch a browser-based chat using Gradio.
 
 ### Chat Interface
-![Chat Interface]("https://github.com/thulasiramd2000/Insurance-AI-Knowledge-Assistant/blob/main/Gradio%20Screenshot.png?raw=true")
-![Chat Interface2]("https://github.com/thulasiramd2000/Insurance-AI-Knowledge-Assistant/blob/main/Gradio%20Screenshot-2.png?raw=true")
+![Chat Interface]("https://github.com/thulasiramd2000/Insurance-AI-Knowledge-Assistant/blob/main/Gradio%20Screenshot.png")
+![Chat Interface2]("https://github.com/thulasiramd2000/Insurance-AI-Knowledge-Assistant/blob/main/Gradio%20Screenshot-2.png")
 
 🔮 Future Enhancements
 Use open-source embedding models for data privacy.
